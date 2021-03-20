@@ -54,6 +54,14 @@ footer:
       style: icon
       icon: linkedin
       new_window: true
+  links:
+    - label: lorem-ipsum
+      url: '#'
+      style: link
+      icon: dribbble
+      new_window: false
+      no_follow: false
+      type: action
 sass:
   indentWidth: 4
   style: nested
