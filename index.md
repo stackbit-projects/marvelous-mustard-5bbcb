@@ -9,7 +9,7 @@ sections:
       I'm a Product Owner & UX Designer, based in HCMC, Vietnam.
     actions:
       - label: Let's talk
-        url: /contact
+        url: www.fb.com/
         style: button
   - section_id: latest-projects
     type: section_portfolio
