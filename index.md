@@ -42,7 +42,7 @@ seo:
       value: ProduxTalks - PO & UX Stories
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: We talk about Product & UX life.
       keyName: property
     - name: 'og:image'
       value: /images/1.jpg
