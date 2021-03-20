@@ -1,5 +1,5 @@
 ---
-title: 'Đà lạt mùa hoa nở '
+title: "Đà lạt mùa hoa nở \U0001F338"
 excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
