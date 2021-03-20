@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 color_scheme: light
-accent_color: blue
+accent_color: yellow
 header:
   title: PRODUXTALKS
   has_nav: true
