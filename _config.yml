@@ -37,7 +37,7 @@ footer:
     - label: Facebook
       url: 'https://twitter.com/'
       style: icon
-      icon: twitter
+      icon: facebook
       new_window: true
     - label: Instagram
       url: 'https://www.instagram.com/'
