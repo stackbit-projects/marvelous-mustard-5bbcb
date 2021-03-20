@@ -53,7 +53,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Exto Theme
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: We talk about Product & UX life.
     - name: 'twitter:image'
       value: /images/1.jpg
       relativeUrl: true
