@@ -13,11 +13,11 @@ header:
     - label: Home
       url: /
       style: link
-    - label: Portfolio
-      url: /portfolio/
-      style: link
     - label: Blog
       url: /blog/
+      style: link
+    - label: Portfolio
+      url: /portfolio/
       style: link
     - label: Style Guide
       url: /style-guide/
