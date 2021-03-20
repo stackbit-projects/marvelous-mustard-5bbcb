@@ -9,7 +9,7 @@ sections:
       I'm a Product Owner & UX Designer, based in HCMC, Vietnam.
     actions:
       - label: Let's talk
-        url: m.me/hoanglight.98
+        url: 'https://m.me/hoanglight.98'
         style: button
         icon: facebook
         new_window: true
