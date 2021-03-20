@@ -11,6 +11,7 @@ sections:
       - label: Let's talk
         url: m.me/hoanglight.98
         style: button
+        icon: facebook
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
