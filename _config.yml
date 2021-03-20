@@ -66,4 +66,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: 'https://www.chillintheblank.com/'
+domain: justprxmind
