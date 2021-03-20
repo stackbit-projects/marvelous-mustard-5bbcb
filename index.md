@@ -51,7 +51,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: ProduxTalks - PO & UX Stories
     - name: 'twitter:description'
       value: We talk about Product & UX life.
     - name: 'twitter:image'
