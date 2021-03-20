@@ -30,11 +30,8 @@ header:
       style: link
 footer:
   content: >-
-    &copy; ProduxTalks. All rights reserved. This site was created with <a
-    href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
-    rel="noopener">Stackbit</a>. Create yours <a
-    href="https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer"
-    target="_blank" rel="noopener">now</a>
+    2021 &copy; ProduxTalks. All rights reserved. This site was created &
+    developed by <a href="https://www.m.me/hoanglight.98>Wilson D.
   has_social: true
   social_links:
     - label: Twitter
