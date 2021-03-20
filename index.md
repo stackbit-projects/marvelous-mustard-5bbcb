@@ -17,7 +17,7 @@ sections:
     type: section_posts
     title: Latest from the Blog
     subtitle: An optional subtitle of the section
-    posts_number: 3
+    posts_number: 9
     col_number: three
     actions:
       - label: View Blog
