@@ -76,3 +76,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://marvelous-mustard-5bbcb.netlify.app'
