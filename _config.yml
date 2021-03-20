@@ -29,9 +29,7 @@ header:
       url: /contact/
       style: link
 footer:
-  content: >-
-    2021 &copy; ProduxTalks. All rights reserved. This site was created &
-    developed by <a href="https://www.m.me/hoanglight.98">Wilson D.
+  content: "2021 &copy; ProduxTalks.\_ Created & developed by <a href=\"https://www.m.me/hoanglight.98\">Wilson D. All rights reserved."
   has_social: true
   social_links:
     - label: Facebook
