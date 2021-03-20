@@ -49,6 +49,13 @@ footer:
       style: icon
       icon: linkedin
       new_window: true
+    - label: lorem-ipsum
+      url: '#'
+      style: link
+      icon: dribbble
+      new_window: false
+      no_follow: false
+      type: action
   links:
     - label: lorem-ipsum
       url: '#'
