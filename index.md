@@ -33,7 +33,7 @@ sections:
     view_all_url: portfolio
 seo:
   title: ProduxTalks - PO & UX Stories
-  description: The preview of the Exto theme
+  description: We talk about Product & UX life.
   extra:
     - name: 'og:type'
       value: website
